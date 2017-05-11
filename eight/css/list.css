@@ -1,0 +1,7 @@
+.a2 li a{
+	font-size: 14px;
+}
+.a2 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}

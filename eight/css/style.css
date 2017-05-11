@@ -1,0 +1,32 @@
+html{
+	font-size: 12px;
+	color: gray;
+	font-family: Arial;
+	line-height: 2em;
+}
+a{
+	color: #727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#c1 a{
+	color: #b9f605;
+}
+#c2 a{
+	color: #fdb306;
+}
+.a1 td a{
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+.a1 td a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.a2 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
