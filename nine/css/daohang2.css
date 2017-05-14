@@ -1,0 +1,39 @@
+*{
+	padding:0px;
+	margin:20px;
+}
+	
+#titlediv{
+	background-image:url(../image/header.png);
+	height:60px;
+	width:175px;
+	color:white;
+	text-align:center;
+}
+ul{
+	list-style-type:none;
+	width:175px;
+
+}
+ul li{
+	width:125px;
+	height:30px;
+	padding-top:10px;
+	text-align:center;
+	background-repeat: no-repeat;
+	background-image:url(../image/left_nav_txt.gif);
+	background-position:-3em 90%;
+	padding-top:10px;
+}
+.menu{
+	width:125px;
+	height:30px;
+	background-image:url(../image/lvbiaoti.png);
+	color:white;
+	text-align:center;
+
+}
+#footerdiv{
+	width:175px;
+	height:60px;
+}
